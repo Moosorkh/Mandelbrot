@@ -1,0 +1,12 @@
+﻿  FractalCreator.cpp
+c:\users\moosorkh\desktop\ex_files_c_pointers\c37\02_02_comp_end\02_02_comp_end\fractalcreator.cpp(12): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+c:\users\moosorkh\desktop\ex_files_c_pointers\c37\02_02_comp_end\02_02_comp_end\fractalcreator.cpp(110): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+c:\users\moosorkh\desktop\ex_files_c_pointers\c37\02_02_comp_end\02_02_comp_end\fractalcreator.cpp(111): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+c:\users\moosorkh\desktop\ex_files_c_pointers\c37\02_02_comp_end\02_02_comp_end\fractalcreator.cpp(112): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+  main.cpp
+  Generating Code...
+  02_02_Comp_End.vcxproj -> C:\Users\Moosorkh\Desktop\Ex_Files_C_Pointers\C37\02_02_Comp_End\x64\Debug\02_02_Comp_End.exe
